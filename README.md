@@ -1,7 +1,7 @@
 # ROSbag 2 Videos
 Extract videos from ROS bags based on `sensor_msgs/Image` topics.
 
-![](/home/hema/projects/rosbag_2_videos/screenshot.gif)
+![](screenshot.gif)
 
 # How to run:
 
