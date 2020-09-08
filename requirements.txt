@@ -1,0 +1,5 @@
+--extra-index-url https://rospypi.github.io/simple/
+sensor_msgs 
+geometry_msgs 
+cv_bridge 
+rosbag
